@@ -1,0 +1,701 @@
+PUT http://localhost:8080/products/3
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 100,
+  "category": {
+    "id": 5,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221525.200.json
+
+###
+
+POST http://localhost:8080/products
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product New",
+  "description": "Product New description",
+  "price": 200,
+  "category": {
+    "id": 4,
+    "name": "Category New"
+  }
+}
+
+<> 2022-06-05T221515.200.json
+
+###
+
+PUT http://localhost:8080/products/3
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 100,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221501.200.json
+
+###
+
+PUT http://localhost:8080/products/3
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 100,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221455.200.json
+
+###
+
+PUT http://localhost:8080/products/3
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 2,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221430.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 2,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221416.200.json
+
+###
+
+PUT http://localhost:8080/products/3
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 2,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221407.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 2,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221354.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 2,
+  "category": {
+    "id": 4,
+    "name": "Category Updated"
+  }
+}
+
+<> 2022-06-05T221349.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+    "category": {
+        "id": 4,
+        "name": "Category Updated"
+    }
+}
+
+<> 2022-06-05T221335.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+    "category": {
+        "id": 4,
+        "name": "Category Updated"
+    }
+}
+
+<> 2022-06-05T221328.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+    "price": 1.99,
+    "category": {
+        "id": 4,
+        "name": "Category Updated"
+    }
+}
+
+<> 2022-06-05T221319.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+    "price": 1.99,
+    "category": {
+        "id": 4,
+        "name": "Category Updated"
+    }
+}
+
+<> 2022-06-05T221313.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221252.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221251.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221239.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221236.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221147.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221122.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221121.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221113.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221057.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T221013.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220936.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220919.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220832.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220824.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220823.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220822.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220819.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220721.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220717.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220716.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220634.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220602.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220423.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220418.200.json
+
+###
+
+PUT http://localhost:8080/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220330.200.json
+
+###
+
+PUT http://localhost:8080/products/0
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220323.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220303.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated as",
+  "description": "Product Updated description as"
+}
+
+<> 2022-06-05T220245.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated as",
+  "description": "Product Updated description as"
+}
+
+<> 2022-06-05T220241.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated as",
+  "description": "Product Updated description as"
+}
+
+<> 2022-06-05T220153.200.json
+
+###
+
+PUT http://localhost:8080/products/1
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description"
+}
+
+<> 2022-06-05T220143.200.json
+
+###
+
