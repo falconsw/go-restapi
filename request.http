@@ -1,0 +1,45 @@
+GET http://localhost:8080/products
+Accept: application/json
+
+###
+
+GET http://localhost:8080/products/1
+Accept: application/json
+
+
+###
+
+DELETE http://localhost:8080/products/1
+Accept: application/json
+
+
+###
+POST http://localhost:8080/products
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product New",
+  "description": "Product New description",
+  "price": 200,
+  "category": {
+    "id": 4,
+    "name": "Category New"
+  }
+}
+
+###
+
+PUT http://localhost:8080/products/3
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Product Updated",
+  "description": "Product Updated description",
+  "price": 100,
+  "category": {
+    "id": 5,
+    "name": "Category Updated"
+  }
+}
